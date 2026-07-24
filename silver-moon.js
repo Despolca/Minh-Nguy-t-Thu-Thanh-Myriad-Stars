@@ -162,7 +162,7 @@
     font-family: 'Noto Serif SC', serif !important;
     font-size: 1rem !important;
     font-weight: 500 !important;
-    letter-spacing: 0.2em !important;
+    letter-spacing: 0.02em !important;
     color: rgba(180,195,220,0.65) !important;
     transition: color 0.8s ease !important;
     flex: 1 !important;
@@ -330,7 +330,7 @@
     #chat .mes_reasoning_details[data-state] .mes_reasoning_header_title {
         padding-left: 50px !important;
         font-size: 0.88rem !important;
-        letter-spacing: 0.14em !important;
+        letter-spacing: 0.02em !important;
     }
     #chat .mes_reasoning_details[data-state] .mes_reasoning {
         padding: 12px 16px !important;
